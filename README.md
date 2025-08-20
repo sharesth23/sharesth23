@@ -20,26 +20,14 @@
 - **Data**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Dev Tools**: Git, Docker, VS Code, Jupyter  
 
----
-
-## 📈 GitHub Stats
-![Sharesth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharesth23&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharesth23&layout=compact&theme=tokyonight)  
-
----
-
-## 🏆 LeetCode & Kaggle
-- 🔢 **LeetCode**: 300+ problems solved  
-- 🥇 **Kaggle**: House Prices (Public Score: **0.90383 RMSE**)  
-- 🌍 Building **real-world ML solutions**  
+--- 
 
 ---
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
 - [Kaggle](https://www.kaggle.com/YOUR-KAGGLE)  
--   
+
 
 ---
 ⭐️ From [sharesth](https://github.com/sharesth)
