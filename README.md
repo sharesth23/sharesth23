@@ -2,7 +2,7 @@
 
 🎓 2nd Year B.Tech | NIT Kurukshetra | AI & Data Science  
 💻 Machine Learning | Deep Learning | Data Structures & Algorithms  
-📊 300+ LeetCode Problems | Kaggle Competitions | Open Source  
+Kaggle Competitions | Open Source  
 
 ---
 
@@ -25,9 +25,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- [Kaggle](https://www.kaggle.com/YOUR-KAGGLE)  
+- [Kaggle](https://www.kaggle.com/sharesth2307)  
 
 
 ---
-⭐️ From [sharesth](https://github.com/sharesth)
+⭐️ From [sharesth](https://github.com/sharesth23)
