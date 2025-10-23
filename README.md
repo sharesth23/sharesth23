@@ -4,6 +4,13 @@
 <h3 align="center">Aspiring Data Scientist & ML Enthusiast | NIT Kurukshetra</h3>
 
 ---
+### 🧠 About Me:
+•⁠  ⁠🎓 B.Tech student at *NIT Kurukshetra*  
+•⁠  ⁠💻 Exploring *Machine Learning, **AI, and **Data Science*  
+•⁠  ⁠🚀 Currently working on data-driven projects and Kaggle notebooks  
+•⁠  ⁠📈 I love turning ideas into real, working solutions  
+
+---
 
 ### 📊 GitHub Profile Summary Cards
 
@@ -14,24 +21,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharesth23&theme=solarized&utcOffset=8)
 
 ---
-
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sharesth.01) 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sharesth444yt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()
-
----
-
-### 🧠 About Me:
-•⁠  ⁠🎓 B.Tech student at *NIT Kurukshetra*  
-•⁠  ⁠💻 Exploring *Machine Learning, **AI, and **Data Science*  
-•⁠  ⁠🚀 Currently working on data-driven projects and Kaggle notebooks  
-•⁠  ⁠📈 I love turning ideas into real, working solutions  
-
----
-
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -40,6 +29,15 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sharesth.01) 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sharesth444yt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()
 
 ---
 
