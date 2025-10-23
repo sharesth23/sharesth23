@@ -33,11 +33,6 @@
 
 ---
 
-### 🐍 My GitHub Contribution Snake:
-![snake gif](https://github.com/sharesth23/sharesth23/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sharesth23&show_icons=true&theme=github_dark&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sharesth23&theme=github-dark-blue&hide_border=true)
@@ -48,6 +43,7 @@
 ### 📫 Reach Me:
 📧 *sharesth444yt@gmail.com*  
 🌐 [Kaggle Profile](https://www.kaggle.com/sharesth2307)
+⭐️ From [sharesth](https://github.com/sharesth23)
 
 ---
 
@@ -55,11 +51,3 @@
 
 --- 
 
----
-
-## 📫 Connect with Me
-- [Kaggle](https://www.kaggle.com/sharesth2307)  
-
-
----
-⭐️ From [sharesth](https://github.com/sharesth23)
