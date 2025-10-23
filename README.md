@@ -7,11 +7,12 @@
 
 ### 📊 GitHub Profile Summary Cards
 
-[![](https://raw.githubusercontent.com/sharesthgulia/sharesthgulia/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sharesthgulia/sharesthgulia/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sharesthgulia/sharesthgulia/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sharesthgulia/sharesthgulia/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/sharesthgulia/sharesthgulia/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharesth23&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharesth23&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharesth23&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharesth23&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharesth23&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharesth23&theme=solarized&utcOffset=8)
 
 ---
 
@@ -40,13 +41,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharesth23&show_icons=true&theme=github_dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharesth23&theme=github-dark-blue&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharesth23&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
