@@ -43,7 +43,7 @@
 ### 📫 Reach Me:
 📧 *sharesth444yt@gmail.com*  
 🌐 [Kaggle Profile](https://www.kaggle.com/sharesth2307)
-⭐️ From [sharesth](https://github.com/sharesth23)
+
 
 ---
 
