@@ -1,11 +1,13 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sharesth Gulia</span></h1>
+![Coding GIF](https://media.tenor.com/4ZgIMz19pZgAAAAC/code-coding.gif)
+
 
 <p align="center">
   <img src="https://media.tenor.com/4ZgIMz19pZgAAAAC/code-coding.gif" width="350"/>
 </p>
 
 <p align="center">
-  A passionate <strong>Full-Stack Developer</strong> , <strong>Aspiring Data Scientist & ML Enthusiast</strong> crafting beautiful and efficient digital experiences.
+  A passionate <strong>Full-Stack Developer</strong> & <strong>Aspiring Data Scientist & ML Enthusiast</strong> .
 </p>
 
 
