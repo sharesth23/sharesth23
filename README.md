@@ -1,6 +1,4 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sharesth Gulia</span></h1>
-![Coding GIF](https://media.tenor.com/4ZgIMz19pZgAAAAC/code-coding.gif)
-
 
 <p align="center">
   <img src="https://media.tenor.com/4ZgIMz19pZgAAAAC/code-coding.gif" width="350"/>
