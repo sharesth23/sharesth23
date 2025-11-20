@@ -1,7 +1,14 @@
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sharesth Gulia</span></h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/4ZgIMz19pZgAAAAC/code-coding.gif" width="350"/>
+</p>
+
+<p align="center">
+  A passionate <strong>Full-Stack Developer</strong> , <strong>Aspiring Data Scientist & ML Enthusiast</strong> crafting beautiful and efficient digital experiences.
+</p>
 
 
-<h1 align="center">Hey there 👋, I'm Sharesth</h1>
-<h3 align="center">Aspiring Data Scientist & ML Enthusiast | NIT Kurukshetra</h3>
 
 ---
 ### 🧠 About Me:
