@@ -1,13 +1,22 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Sharesth Gulia</span></h1>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZqcTBpNWNnY3V3bWNibTg2a2dvOWhpNTdkcHptN2k4b2Nib2EyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" alt="Banner" width="100%" height="700px">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZqcTBpNWNnY3V3bWNibTg2a2dvOWhpNTdkcHptN2k4b2Nib2EyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="350">
+      <td align="center" width="400">
+      <h2> Hi, I'm <span style="color:#4CAF50;">Sharesth Gulia</span></h2>
+      <p>
+        A passionate <strong>Full-Stack Developer</strong> & 
+        <strong>Aspiring Data Scientist & ML Enthusiast</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
 
-<p align="center">
-  A passionate <strong>Full-Stack Developer</strong> & <strong>Aspiring Data Scientist & ML Enthusiast</strong> .
-</p>
+
+
 
 
 
