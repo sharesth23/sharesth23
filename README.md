@@ -18,8 +18,6 @@
 ### 📊 GitHub Profile Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharesth23&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharesth23&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharesth23&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharesth23&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharesth23&theme=solarized&utcOffset=8)
 
