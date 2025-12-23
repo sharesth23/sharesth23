@@ -17,6 +17,12 @@
 ###  📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sharesth23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sharesth23&theme=dark&hide_border=false)<br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharesth23&theme=tokyo-night&hide_border=true)
+
+
+
+
+
 
 
 ---
