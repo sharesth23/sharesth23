@@ -55,6 +55,15 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharesth444yt@gmail.com) 
 
 ---
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+---
 
 ### 📫 Reach Me:
 📧 *sharesth444yt@gmail.com*  
