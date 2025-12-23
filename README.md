@@ -17,10 +17,10 @@
 ###  📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sharesth23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sharesth23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharesth23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
-### 💻 Tech Stack:
+
 # 💻 Tech Stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -55,24 +55,22 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharesth444yt@gmail.com) 
 
 ---
-###
 
-<br clear="both">
-
-<img src="https://raw.sharesth23.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Quant](https://img.shields.io/badge/Domain-Quant%20Finance-purple?style=for-the-badge)
 
 ---
 
-### 📫 Reach Me:
-📧 *sharesth444yt@gmail.com*  
-🌐 [Kaggle Profile](https://www.kaggle.com/sharesth2307)
+###
 
-
----
-
-⭐ "Turning data into meaningful insights and intelligent solutions!"
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph.svg">
+</picture>
 --- 
 
