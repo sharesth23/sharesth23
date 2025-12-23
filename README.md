@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubsharesth23.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.sharesth23.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
