@@ -77,5 +77,11 @@
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph.svg">
 </picture>
+
+
 --- 
+
+
+# 👀 Badges
+<div><a href="https://cloud.layer5.io/user/1b669ecd-2b50-4a73-9aee-1cbf19320d01?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 
