@@ -1,32 +1,3 @@
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🤖 JARVIS AI SHOWCASE                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="./assets/section-jarvis.svg" width="240"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JARVIS-AI%20Personal%20Assistant-667eea?style=for-the-badge&labelColor=1a1b26"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Actively%20Building-f093fb?style=for-the-badge&labelColor=1a1b26"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Tech-Python%20%7C%20LLMs%20%7C%20Automation-764ba2?style=for-the-badge&labelColor=1a1b26"/>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
@@ -115,19 +86,9 @@ philosophy: "Build things that think."
 </tr>
 </table>
 
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-trophy.svg" width="200"/>
-
-<br/><br/>
 
 <div align="center">
   
@@ -138,33 +99,19 @@ philosophy: "Build things that think."
   
 </div>
 
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-stats.svg" width="220"/>
-
-<br/><br/>
-
-<div align="center">
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
-  <a href="https://github.com/sharesth23">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sharesth23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/sharesth23">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
-  </a>
-  
-  <br/><br/>
-  
+&nbsp;
+<a href="https://github.com/sharesth23">
+  <img height="195em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sharesth23&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
+</a>
+
+<br/><br/>  
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
   <a href="https://github.com/sharesth23">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sharesth23&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
@@ -178,56 +125,29 @@ philosophy: "Build things that think."
   </a>
   
   <br/><br/>
-  
-  <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharesth23&theme=tokyonight" width="95%" alt="Profile Details"/>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-game.svg" width="280"/>
-
-<br/><br/>
-
-<div align="center">
   
   <!-- Pac-Man Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
-  </picture>
-  
+## 🎮 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions" 
+    src="https://raw.githubusercontent.com/sharesth23/sharesth23/output/pacman-contribution-graph-dark.svg">
+</picture>
   <br/>
   
-  <sub>👾 Watch Pac-Man devour my contributions!</sub>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ⚡ TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-tech.svg" width="180"/>
-
-<br/><br/>
-
-<div align="center">
 
 <!-- 💻 LANGUAGES -->
 <h4>💻 Languages</h4>
@@ -289,12 +209,6 @@ philosophy: "Build things that think."
 
 </div>
 
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🔥 CURRENTLY WORKING ON                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -319,19 +233,9 @@ philosophy: "Build things that think."
 
 </div>
 
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-connect.svg" width="160"/>
-
-<br/><br/>
 
 <div align="center">
   
@@ -351,51 +255,6 @@ philosophy: "Build things that think."
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💡 RANDOM DEV QUOTE                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-<br/>
-
-<a href="https://github.com/sharesth23">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 FOOTER                                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-  <img src="./assets/footer.svg" width="100%"/>
-  
-  <br/>
-  
-  <!-- ☕ BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/redoyanul1y" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
-  
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
