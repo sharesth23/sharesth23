@@ -1,3 +1,32 @@
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🤖 JARVIS AI SHOWCASE                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="./assets/section-jarvis.svg" width="240"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JARVIS-AI%20Personal%20Assistant-667eea?style=for-the-badge&labelColor=1a1b26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Actively%20Building-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20LLMs%20%7C%20Automation-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
