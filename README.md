@@ -210,30 +210,6 @@ philosophy: "Build things that think."
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 CURRENTLY WORKING ON                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-### ⚡ Currently Building & Learning
-
-<br/>
-
-<a href="https://github.com/red1-for-hek">
-  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-&nbsp;
-<a href="https://github.com/red1-for-hek">
-  <img src="https://img.shields.io/badge/🧠_LLMs-Transformer_Architectures-764ba2?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-&nbsp;
-<a href="https://github.com/red1-for-hek">
-  <img src="https://img.shields.io/badge/💬_Chatbots-Conversational_AI-f093fb?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
